@@ -4,3 +4,5 @@
 
 😑 Làm ơn đừng review code và chởi tôi ngU
 
+Generalist, lan man đủ mảng @@
+
