@@ -1,4 +1,37 @@
-I'm 20 year olds
-Focus on System, Webservices
-My stack Java Spring Boot/NestJS , MySQL/Redis, Prothemus, Nginx, Docker, ReacJS.
+# 👨‍💻 About Me
 
+Hi there! I'm a **20-year-old developer**.
+
+---
+
+## 🚀 Focus Areas
+
+*  System Design
+*  Web Services & Backend Architecture
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Backend
+
+* Java (Spring Boot)
+* NestJS
+
+### 🔹 Frontend
+
+* ReactJS
+
+### 🔹 Database & Cache
+
+* MySQL
+* Redis
+
+### 🔹 Infrastructure & DevOps
+
+* Docker
+* Nginx
+
+### 🔹 Others
+
+* Prothemus
