@@ -1,37 +1,22 @@
-# 👨‍💻 About Me
-
-Hi there! I'm a **20-year-old developer**.
-
----
-
-## 🚀 Focus Areas
-
+## Focus Areas
 *  System Design
 *  Web Services & Backend Architecture
-
 ---
-
-## 🛠️ Tech Stack
-
+## Tech Stack
 ### 🔹 Backend
-
 * Java (Spring Boot)
 * NestJS
-
 ### 🔹 Frontend
-
 * ReactJS
-
-### 🔹 Database & Cache
-
+* HTML CSS JS
+### 🔹 Database SQL/noSQL
 * MySQL
 * Redis
-
 ### 🔹 Infrastructure & DevOps
-
 * Docker
 * Nginx
-
+* Linux
 ### 🔹 Others
-
 * Prothemus
+* Grafana
+* STOMP Websocket
